@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_ProductNavigation,Chrome 129.0.0.0,,,28-09-2024 10:49:46,28-09-2024 10:49:57,11.141s,PASSED
+,,,,,,,
+Test Cases/TC_Productnavigation,Chrome 129.0.0.0,,RegressionTest,28-09-2024 10:49:47,28-09-2024 10:49:57,10.931s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,28-09-2024 10:49:47,28-09-2024 10:49:49,2.551s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Chrome 129.0.0.0,,,28-09-2024 10:49:49,28-09-2024 10:49:51,1.865s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Enter the Store""), 0)",Chrome 129.0.0.0,,,28-09-2024 10:49:51,28-09-2024 10:49:52,0.443s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Enter the Store""))",Chrome 129.0.0.0,,,28-09-2024 10:49:52,28-09-2024 10:49:53,1.529s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/img""))",Chrome 129.0.0.0,,,28-09-2024 10:49:53,28-09-2024 10:49:54,0.518s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_FI-SW-01""))",Chrome 129.0.0.0,,,28-09-2024 10:49:54,28-09-2024 10:49:54,0.520s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_EST-1""))",Chrome 129.0.0.0,,,28-09-2024 10:49:54,28-09-2024 10:49:55,0.815s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Add to Cart""))",Chrome 129.0.0.0,,,28-09-2024 10:49:55,28-09-2024 10:49:56,0.526s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Proceed to Checkout""))",Chrome 129.0.0.0,,,28-09-2024 10:49:56,28-09-2024 10:49:56,0.494s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/img""))",Chrome 129.0.0.0,,,28-09-2024 10:49:56,28-09-2024 10:49:57,0.493s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Return to Main Menu""))",Chrome 129.0.0.0,,,28-09-2024 10:49:57,28-09-2024 10:49:57,0.517s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,28-09-2024 10:49:57,28-09-2024 10:49:57,0.234s,PASSED
