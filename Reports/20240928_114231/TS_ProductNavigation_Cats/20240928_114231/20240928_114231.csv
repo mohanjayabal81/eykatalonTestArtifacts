@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_ProductNavigation_Cats,Chrome 129.0.0.0,,,28-09-2024 11:42:37,28-09-2024 11:42:48,11.928s,PASSED
+,,,,,,,
+Test Cases/TC_ProductNavigation_Cats,Chrome 129.0.0.0,,RegressionTest,28-09-2024 11:42:37,28-09-2024 11:42:48,11.628s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,28-09-2024 11:42:37,28-09-2024 11:42:40,2.651s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Chrome 129.0.0.0,,,28-09-2024 11:42:40,28-09-2024 11:42:41,0.814s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Enter the Store""))",Chrome 129.0.0.0,,,28-09-2024 11:42:41,28-09-2024 11:42:43,1.837s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/img""))",Chrome 129.0.0.0,,,28-09-2024 11:42:43,28-09-2024 11:42:43,0.532s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_FL-DSH-01""))",Chrome 129.0.0.0,,,28-09-2024 11:42:43,28-09-2024 11:42:44,0.539s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_EST-14""))",Chrome 129.0.0.0,,,28-09-2024 11:42:44,28-09-2024 11:42:45,1.459s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Add to Cart""))",Chrome 129.0.0.0,,,28-09-2024 11:42:45,28-09-2024 11:42:47,1.425s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Proceed to Checkout""))",Chrome 129.0.0.0,,,28-09-2024 11:42:47,28-09-2024 11:42:47,0.541s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/img""))",Chrome 129.0.0.0,,,28-09-2024 11:42:47,28-09-2024 11:42:48,0.537s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Return to Main Menu""))",Chrome 129.0.0.0,,,28-09-2024 11:42:48,28-09-2024 11:42:48,0.548s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,28-09-2024 11:42:48,28-09-2024 11:42:48,0.304s,PASSED
