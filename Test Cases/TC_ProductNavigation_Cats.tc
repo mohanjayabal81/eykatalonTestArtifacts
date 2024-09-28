@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_ProductNavigation_Cats</name>
+   <tag>RegressionTest</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2b32008a-d846-4128-bb67-e3c30bc40528</testCaseGuid>
+</TestCaseEntity>
