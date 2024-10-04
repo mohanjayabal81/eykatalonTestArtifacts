@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_ProductNavigation_Cats_New" time="11.097" tests="1" failures="0" errors="0">
+   <testsuite name="TS_ProductNavigation_Cats_New" tests="1" failures="0" errors="0" time="11.097" skipped="0" timestamp="04-10-2024T13:13:09" hostname="WINDOWS11 - Mohan" id="Test Suites/TS_ProductNavigation_Cats_New">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\WINDOWS11\\git\\eykatalonTestArtifacts\\Reports\\20241004_131303\\TS_ProductNavigation_Cats_New\\20241004_131303"/>
+         <property name="logFiles" value="C:\\Users\\WINDOWS11\\git\\eykatalonTestArtifacts\\Reports\\20241004_131303\\TS_ProductNavigation_Cats_New\\20241004_131303\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="WINDOWS11 - Mohan"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+         <property name="browser" value="Chrome 129.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.3"/>
+         <property name="sessionId" value="4dd648caa7b1754434ba869bd75e163d"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TC_ProductNavigation_Cats" time="10.923" classname="Test Cases/TC_ProductNavigation_Cats" status="PASSED">
+         <system-out><![CDATA[04-10-2024T13:13:09 - [TEST_CASE][PASSED] - Test Cases/TC_ProductNavigation_Cats: Test Cases/TC_ProductNavigation_Cats
+
+04-10-2024T13:13:10 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+04-10-2024T13:13:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+04-10-2024T13:13:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+04-10-2024T13:13:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+04-10-2024T13:13:11 - [TEST_STEP][PASSED] - navigateToUrl("https://petstore.octoperf.com/"): Navigate to 'https://petstore.octoperf.com/' successfully
+
+04-10-2024T13:13:13 - [MESSAGE][PASSED] - Navigate to 'https://petstore.octoperf.com/' successfully
+
+04-10-2024T13:13:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Enter the Store")): Object: 'Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Enter the Store' is clicked on
+
+04-10-2024T13:13:15 - [MESSAGE][PASSED] - Object: 'Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Enter the Store' is clicked on
+
+04-10-2024T13:13:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/img")): Object: 'Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/img' is clicked on
+
+04-10-2024T13:13:16 - [MESSAGE][PASSED] - Object: 'Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/img' is clicked on
+
+04-10-2024T13:13:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_FL-DSH-01")): Object: 'Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_FL-DSH-01' is clicked on
+
+04-10-2024T13:13:17 - [MESSAGE][PASSED] - Object: 'Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_FL-DSH-01' is clicked on
+
+04-10-2024T13:13:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_EST-14")): Object: 'Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_EST-14' is clicked on
+
+04-10-2024T13:13:17 - [MESSAGE][PASSED] - Object: 'Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_EST-14' is clicked on
+
+04-10-2024T13:13:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Add to Cart")): Object: 'Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Add to Cart' is clicked on
+
+04-10-2024T13:13:18 - [MESSAGE][PASSED] - Object: 'Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Add to Cart' is clicked on
+
+04-10-2024T13:13:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Proceed to Checkout")): Object: 'Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Proceed to Checkout' is clicked on
+
+04-10-2024T13:13:19 - [MESSAGE][PASSED] - Object: 'Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Proceed to Checkout' is clicked on
+
+04-10-2024T13:13:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/img")): Object: 'Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/img' is clicked on
+
+04-10-2024T13:13:19 - [MESSAGE][PASSED] - Object: 'Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/img' is clicked on
+
+04-10-2024T13:13:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Return to Main Menu")): Object: 'Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Return to Main Menu' is clicked on
+
+04-10-2024T13:13:20 - [MESSAGE][PASSED] - Object: 'Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Return to Main Menu' is clicked on
+
+04-10-2024T13:13:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+04-10-2024T13:13:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[04-10-2024T13:13:09 - [TEST_SUITE][PASSED] - TS_ProductNavigation_Cats_New: Test Cases/TC_ProductNavigation_Cats]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

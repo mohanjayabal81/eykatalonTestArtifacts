@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_ProductNavigation_Cats_New,Chrome 129.0.0.0,,,04-10-2024 13:13:09,04-10-2024 13:13:20,11.097s,PASSED
+,,,,,,,
+Test Cases/TC_ProductNavigation_Cats,Chrome 129.0.0.0,,RegressionTest,04-10-2024 13:13:09,04-10-2024 13:13:20,10.923s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,04-10-2024 13:13:10,04-10-2024 13:13:11,1.684s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Chrome 129.0.0.0,,,04-10-2024 13:13:11,04-10-2024 13:13:13,1.958s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Enter the Store""))",Chrome 129.0.0.0,,,04-10-2024 13:13:13,04-10-2024 13:13:15,2.227s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/img""))",Chrome 129.0.0.0,,,04-10-2024 13:13:15,04-10-2024 13:13:16,0.577s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_FL-DSH-01""))",Chrome 129.0.0.0,,,04-10-2024 13:13:16,04-10-2024 13:13:17,0.547s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_EST-14""))",Chrome 129.0.0.0,,,04-10-2024 13:13:17,04-10-2024 13:13:17,0.885s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Add to Cart""))",Chrome 129.0.0.0,,,04-10-2024 13:13:17,04-10-2024 13:13:18,0.606s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Proceed to Checkout""))",Chrome 129.0.0.0,,,04-10-2024 13:13:18,04-10-2024 13:13:19,0.702s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/img""))",Chrome 129.0.0.0,,,04-10-2024 13:13:19,04-10-2024 13:13:19,0.617s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Cats/Page_JPetStore Demo/a_Return to Main Menu""))",Chrome 129.0.0.0,,,04-10-2024 13:13:19,04-10-2024 13:13:20,0.716s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,04-10-2024 13:13:20,04-10-2024 13:13:20,0.155s,PASSED
