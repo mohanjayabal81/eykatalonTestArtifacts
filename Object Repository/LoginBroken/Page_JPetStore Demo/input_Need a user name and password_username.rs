@@ -3,31 +3,22 @@
    <description></description>
    <name>input_Need a user name and password_username</name>
    <tag></tag>
-   <elementGuidId>2d5a81f1-d35c-4b8c-812a-a941259d89ab</elementGuidId>
-   <imagePath></imagePath>
+   <elementGuidId>80359d1c-11e9-401b-84ec-f1f8abae34e4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#stripes--1239122766</value>
+         <value>#stripes--1848155419</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='Catalog']/form/p[2]/input</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@name = 'username' and @id = 'stripes--1239122766' and @type = 'text']</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#stripes--1239122766</value>
+         <value>#stripes--1848155419</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -38,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>426dd8f3-c6f0-487f-a652-983455295c4e</webElementGuid>
+      <webElementGuid>1fb145eb-77f7-48d8-a9d5-3a5bb4246400</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +37,15 @@
       <name>name</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>8bb35ed8-88de-4b5e-b855-b8e15725e91f</webElementGuid>
+      <webElementGuid>2755e039-5589-44f7-86d6-00415f0ea843</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>stripes--1239122766</value>
-      <webElementGuid>827c0e5e-6076-4988-856e-76434ac1c0da</webElementGuid>
+      <value>stripes--1848155419</value>
+      <webElementGuid>55509a2f-faaf-4d2f-abe9-608f1355eddb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,23 +53,23 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0f49a9e0-ee01-4ac3-85a2-dda7cab3e05b</webElementGuid>
+      <webElementGuid>42e8eb7e-6389-4909-abe8-f5a1684f7249</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;stripes--1239122766&quot;)</value>
-      <webElementGuid>143ea89d-7d71-4a36-ba0e-7f36360af749</webElementGuid>
+      <value>id(&quot;stripes--1848155419&quot;)</value>
+      <webElementGuid>227acdab-4143-4d54-9de9-f68ea15040cf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='stripes--1239122766']</value>
-      <webElementGuid>94a3b2c9-bdaf-4052-bd80-2cd0c7f61463</webElementGuid>
+      <value>//input[@id='stripes--1848155419']</value>
+      <webElementGuid>331c1437-e272-4713-88d1-2dbcbfaa6cd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='Catalog']/form/p[2]/input</value>
-      <webElementGuid>1d38ff3d-c189-4e07-bee1-571aa06ff4df</webElementGuid>
+      <webElementGuid>32e9af0c-98e3-44cd-a8f2-25a24ca29069</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,14 +85,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p[2]/input</value>
-      <webElementGuid>dd991c47-7089-4408-9784-92cedbd6a8f1</webElementGuid>
+      <webElementGuid>8009ce5a-0bad-4bbf-91cd-3719fc52d5fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@name = 'username' and @id = 'stripes--1239122766' and @type = 'text']</value>
-      <webElementGuid>e6bd98d1-89df-4e69-8e9b-6d1da350ed96</webElementGuid>
+      <value>//input[@name = 'username' and @id = 'stripes--1848155419' and @type = 'text']</value>
+      <webElementGuid>0f34c986-44f6-4052-a358-22a24dc68c0d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
