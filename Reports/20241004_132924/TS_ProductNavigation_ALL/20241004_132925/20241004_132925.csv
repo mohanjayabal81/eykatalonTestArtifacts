@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_ProductNavigation_ALL,Chrome 129.0.0.0,,,04-10-2024 13:29:33,04-10-2024 13:29:42,8.467s,PASSED
+,,,,,,,
+Test Cases/TC_Productnavigation_All,Chrome 129.0.0.0,,RegressionTest,04-10-2024 13:29:33,04-10-2024 13:29:42,8.303s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,04-10-2024 13:29:34,04-10-2024 13:29:35,1.509s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Chrome 129.0.0.0,,,04-10-2024 13:29:35,04-10-2024 13:29:36,0.716s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Enter the Store""), 0)",Chrome 129.0.0.0,,,04-10-2024 13:29:36,04-10-2024 13:29:36,0.366s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Enter the Store""))",Chrome 129.0.0.0,,,04-10-2024 13:29:36,04-10-2024 13:29:37,0.907s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/img""))",Chrome 129.0.0.0,,,04-10-2024 13:29:37,04-10-2024 13:29:38,0.470s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_FI-SW-01""))",Chrome 129.0.0.0,,,04-10-2024 13:29:38,04-10-2024 13:29:38,0.487s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_EST-1""))",Chrome 129.0.0.0,,,04-10-2024 13:29:38,04-10-2024 13:29:40,1.505s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Add to Cart""))",Chrome 129.0.0.0,,,04-10-2024 13:29:40,04-10-2024 13:29:40,0.480s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Proceed to Checkout""))",Chrome 129.0.0.0,,,04-10-2024 13:29:40,04-10-2024 13:29:41,0.483s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/img""))",Chrome 129.0.0.0,,,04-10-2024 13:29:41,04-10-2024 13:29:41,0.486s,PASSED
+"click(findTestObject(""Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Return to Main Menu""))",Chrome 129.0.0.0,,,04-10-2024 13:29:41,04-10-2024 13:29:42,0.491s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,04-10-2024 13:29:42,04-10-2024 13:29:42,0.133s,PASSED
