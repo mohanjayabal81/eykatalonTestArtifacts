@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_BrokenLocator2,Chrome 129.0.0.0,,,04-10-2024 19:08:13,04-10-2024 19:08:28,15.339s,PASSED
+,,,,,,,
+Test Cases/BrokenLocator2,Chrome 129.0.0.0,,,04-10-2024 19:08:13,04-10-2024 19:08:28,15.172s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,04-10-2024 19:08:13,04-10-2024 19:08:15,1.729s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Chrome 129.0.0.0,,,04-10-2024 19:08:15,04-10-2024 19:08:16,0.902s,PASSED
+"click(findTestObject(""Object Repository/BrokenLocator/Page_JPetStore Demo/a_Enter the Store""))",Chrome 129.0.0.0,,,04-10-2024 19:08:16,04-10-2024 19:08:17,1.163s,PASSED
+"click(findTestObject(""Object Repository/BrokenLocator/Page_JPetStore Demo/a_Sign In""))",Chrome 129.0.0.0,,,04-10-2024 19:08:17,04-10-2024 19:08:18,0.646s,PASSED
+"setText(findTestObject(""Object Repository/BrokenLocator/Page_JPetStore Demo/input_Need a user name and password_username""), ""mohan"")",Chrome 129.0.0.0,,,04-10-2024 19:08:18,04-10-2024 19:08:18,0.643s,PASSED
+"setText(findTestObject(""Object Repository/BrokenLocator/Page_JPetStore Demo/input_Need a user name and password_password""), ""mohan"")",Chrome 129.0.0.0,,,04-10-2024 19:08:18,04-10-2024 19:08:19,0.636s,PASSED
+"click(findTestObject(""Object Repository/BrokenLocator/Page_JPetStore Demo/input_Need a user name and password_signon""))",Chrome 129.0.0.0,,,04-10-2024 19:08:19,04-10-2024 19:08:20,0.717s,PASSED
+"click(findTestObject(""Object Repository/BrokenLocator/Page_JPetStore Demo/img""))",Chrome 129.0.0.0,,,04-10-2024 19:08:20,04-10-2024 19:08:20,0.652s,PASSED
+"click(findTestObject(""Object Repository/BrokenLocator/Page_JPetStore Demo/a_FI-SW-01""))",Chrome 129.0.0.0,,,04-10-2024 19:08:20,04-10-2024 19:08:21,0.623s,PASSED
+"click(findTestObject(""Object Repository/BrokenLocator/Page_JPetStore Demo/a_EST-1""))",Chrome 129.0.0.0,,,04-10-2024 19:08:21,04-10-2024 19:08:22,0.977s,PASSED
+"click(findTestObject(""Object Repository/BrokenLocator/Page_JPetStore Demo/a_Add to Cart""))",Chrome 129.0.0.0,,,04-10-2024 19:08:22,04-10-2024 19:08:23,0.671s,PASSED
+"click(findTestObject(""Object Repository/BrokenLocator/Page_JPetStore Demo/a_Proceed to Checkout""))",Chrome 129.0.0.0,,,04-10-2024 19:08:23,04-10-2024 19:08:24,1.817s,PASSED
+"click(findTestObject(""Object Repository/BrokenLocator/Page_JPetStore Demo/input_Ship to different address_newOrder""))",Chrome 129.0.0.0,,,04-10-2024 19:08:24,04-10-2024 19:08:25,0.711s,PASSED
+"click(findTestObject(""Object Repository/BrokenLocator/Page_JPetStore Demo/a_Confirm""))",Chrome 129.0.0.0,,,04-10-2024 19:08:25,04-10-2024 19:08:26,0.506s,PASSED
+"click(findTestObject(""Object Repository/BrokenLocator/Page_JPetStore Demo/a_Return to Main Menu""))",Chrome 129.0.0.0,,,04-10-2024 19:08:26,04-10-2024 19:08:27,1.338s,PASSED
+"click(findTestObject(""Object Repository/BrokenLocator/Page_JPetStore Demo/a_Sign Out""))",Chrome 129.0.0.0,,,04-10-2024 19:08:27,04-10-2024 19:08:28,1.009s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,04-10-2024 19:08:28,04-10-2024 19:08:28,0.178s,PASSED
