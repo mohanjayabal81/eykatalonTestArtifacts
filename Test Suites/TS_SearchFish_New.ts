@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS_ProductNavigation</name>
+   <name>TS_SearchFish_New</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,19 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>cc62d13e-0d49-4562-8f37-e2300fff4e32</testSuiteGuid>
+   <testSuiteGuid>534c4e66-5c57-4255-b2e9-908605b28517</testSuiteGuid>
    <testCaseLink>
-      <guid>cc343423-b4fc-476e-ba58-7ff2979b1bf2</guid>
+      <guid>89cd36b1-fc52-4335-8d16-ea3f8067b875</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_Productnavigation</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>694f2e68-1503-49c0-bbff-0a6fac4d4d40</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_ProductNavigation_Cats</testCaseId>
+      <testCaseId>Test Cases/TC_Search_Fish</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

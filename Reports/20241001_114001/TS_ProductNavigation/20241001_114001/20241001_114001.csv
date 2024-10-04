@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_ProductNavigation,,,,01-10-2024 11:40:25,01-10-2024 11:40:48,23.166s,FAILED
+,,,,,,,
+Test Cases/TC_Productnavigation,,,RegressionTest,01-10-2024 11:40:34,01-10-2024 11:40:36,2.346s,FAILED
+"openBrowser("""")",,,,01-10-2024 11:40:34,01-10-2024 11:40:36,2.328s,FAILED
+,,,,,,,
+Test Cases/TC_ProductNavigation_Cats,,,RegressionTest,01-10-2024 11:40:45,01-10-2024 11:40:48,2.338s,FAILED
+"openBrowser("""")",,,,01-10-2024 11:40:45,01-10-2024 11:40:48,2.324s,FAILED

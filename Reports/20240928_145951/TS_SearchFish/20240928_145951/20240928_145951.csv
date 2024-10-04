@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_SearchFish,Chrome 129.0.0.0,,,28-09-2024 15:00:00,28-09-2024 15:00:11,10.717s,PASSED
+,,,,,,,
+Test Cases/TC_Search_Fish,Chrome 129.0.0.0,,,28-09-2024 15:00:00,28-09-2024 15:00:11,10.171s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,28-09-2024 15:00:01,28-09-2024 15:00:05,4.197s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Chrome 129.0.0.0,,,28-09-2024 15:00:05,28-09-2024 15:00:06,0.916s,PASSED
+"click(findTestObject(""Object Repository/SearchFish/Page_JPetStore Demo/a_Enter the Store""))",Chrome 129.0.0.0,,,28-09-2024 15:00:06,28-09-2024 15:00:08,1.485s,PASSED
+"setText(findTestObject(""Object Repository/SearchFish/Page_JPetStore Demo/input__keyword""), ""Fish"")",Chrome 129.0.0.0,,,28-09-2024 15:00:08,28-09-2024 15:00:09,0.869s,PASSED
+"click(findTestObject(""Object Repository/SearchFish/Page_JPetStore Demo/input__searchProducts""))",Chrome 129.0.0.0,,,28-09-2024 15:00:09,28-09-2024 15:00:10,0.911s,PASSED
+"click(findTestObject(""Object Repository/SearchFish/Page_JPetStore Demo/a_Return to Main Menu""))",Chrome 129.0.0.0,,,28-09-2024 15:00:10,28-09-2024 15:00:10,0.636s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,28-09-2024 15:00:10,28-09-2024 15:00:11,0.367s,PASSED

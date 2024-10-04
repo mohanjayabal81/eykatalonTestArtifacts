@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS_ProductNavigation</name>
+   <name>TS_ProductNavigation_new</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,19 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>cc62d13e-0d49-4562-8f37-e2300fff4e32</testSuiteGuid>
+   <testSuiteGuid>066f95f4-70bc-4ed9-9a63-14db62eedfe4</testSuiteGuid>
    <testCaseLink>
-      <guid>cc343423-b4fc-476e-ba58-7ff2979b1bf2</guid>
+      <guid>40520fa0-c8b4-41bb-bf93-1b90f75ca7d0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_Productnavigation</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>694f2e68-1503-49c0-bbff-0a6fac4d4d40</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_ProductNavigation_Cats</testCaseId>
+      <testCaseId>Test Cases/TC_Productnavigation_New1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

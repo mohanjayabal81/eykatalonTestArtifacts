@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_ProductNavigation" time="11.242" tests="1" failures="0" errors="0">
+   <testsuite name="TS_ProductNavigation" tests="1" failures="0" errors="0" time="11.242" skipped="0" timestamp="29-09-2024T10:13:26" hostname="WINDOWS11 - Mohan" id="Test Suites/TS_ProductNavigation">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\WINDOWS11\\git\\eykatalonTestArtifacts\\Reports\\20240929_101302\\TS_ProductNavigation\\20240929_101303"/>
+         <property name="logFiles" value="C:\\Users\\WINDOWS11\\git\\eykatalonTestArtifacts\\Reports\\20240929_101302\\TS_ProductNavigation\\20240929_101303\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="WINDOWS11 - Mohan"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+         <property name="browser" value="Chrome 129.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.4"/>
+         <property name="sessionId" value="2cf6630decc4bcc2ad05abe475083918"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TC_Productnavigation" time="10.9" classname="Test Cases/TC_Productnavigation" status="PASSED">
+         <system-out><![CDATA[29-09-2024T10:13:26 - [TEST_CASE][PASSED] - Test Cases/TC_Productnavigation: Test Cases/TC_Productnavigation
+
+29-09-2024T10:13:27 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+29-09-2024T10:13:27 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+29-09-2024T10:13:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+29-09-2024T10:13:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+29-09-2024T10:13:30 - [TEST_STEP][PASSED] - navigateToUrl("https://petstore.octoperf.com/"): Navigate to 'https://petstore.octoperf.com/' successfully
+
+29-09-2024T10:13:31 - [MESSAGE][PASSED] - Navigate to 'https://petstore.octoperf.com/' successfully
+
+29-09-2024T10:13:31 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Enter the Store"), 0): Object 'Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Enter the Store' is present
+
+29-09-2024T10:13:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+29-09-2024T10:13:31 - [MESSAGE][PASSED] - Object 'Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Enter the Store' is present
+
+29-09-2024T10:13:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Enter the Store")): Object: 'Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Enter the Store' is clicked on
+
+29-09-2024T10:13:32 - [MESSAGE][PASSED] - Object: 'Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Enter the Store' is clicked on
+
+29-09-2024T10:13:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/img")): Object: 'Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/img' is clicked on
+
+29-09-2024T10:13:33 - [MESSAGE][PASSED] - Object: 'Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/img' is clicked on
+
+29-09-2024T10:13:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_FI-SW-01")): Object: 'Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_FI-SW-01' is clicked on
+
+29-09-2024T10:13:33 - [MESSAGE][PASSED] - Object: 'Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_FI-SW-01' is clicked on
+
+29-09-2024T10:13:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_EST-1")): Object: 'Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_EST-1' is clicked on
+
+29-09-2024T10:13:34 - [MESSAGE][PASSED] - Object: 'Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_EST-1' is clicked on
+
+29-09-2024T10:13:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Add to Cart")): Object: 'Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Add to Cart' is clicked on
+
+29-09-2024T10:13:35 - [MESSAGE][PASSED] - Object: 'Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Add to Cart' is clicked on
+
+29-09-2024T10:13:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Proceed to Checkout")): Object: 'Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Proceed to Checkout' is clicked on
+
+29-09-2024T10:13:36 - [MESSAGE][PASSED] - Object: 'Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Proceed to Checkout' is clicked on
+
+29-09-2024T10:13:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/img")): Object: 'Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/img' is clicked on
+
+29-09-2024T10:13:36 - [MESSAGE][PASSED] - Object: 'Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/img' is clicked on
+
+29-09-2024T10:13:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Return to Main Menu")): Object: 'Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Return to Main Menu' is clicked on
+
+29-09-2024T10:13:37 - [MESSAGE][PASSED] - Object: 'Object Repository/ProductNavigation_Fish/Page_JPetStore Demo/a_Return to Main Menu' is clicked on
+
+29-09-2024T10:13:37 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+29-09-2024T10:13:37 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[29-09-2024T10:13:26 - [TEST_SUITE][PASSED] - TS_ProductNavigation: Test Cases/TC_Productnavigation]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
